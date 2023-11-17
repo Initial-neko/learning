@@ -1,0 +1,7 @@
+[framework] 2023-11-17 10:35:20,413  INFO --- [main    ] Log4JLog.Log4jMain : hello, world, info
+[framework] 2023-11-17 10:35:20,414  WARN --- [main    ] Log4JLog.Log4jMain : hello, world, warn
+[framework] 2023-11-17 10:35:20,414  ERROR --- [main    ] Log4JLog.Log4jMain : hello, world, error
+[framework] 2023-11-17 10:35:20,414  DEBUG --- [main    ] Log4JLog.Log4jMain : hello, world, debug
+[framework] 2023-11-17 10:35:20,414  INFO --- [main    ] Log4JLog.MyErrorLog : hello, world, info
+[framework] 2023-11-17 10:35:20,414  WARN --- [main    ] Log4JLog.MyErrorLog : hello, world, warn
+[framework] 2023-11-17 10:35:20,414  ERROR --- [main    ] Log4JLog.MyErrorLog : hello, world, error
